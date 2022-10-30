@@ -141,9 +141,6 @@
   <ItemGroup>
     <ClCompile Include="ЛР ИСУ.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="BFS.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
